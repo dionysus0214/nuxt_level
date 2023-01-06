@@ -1,7 +1,7 @@
 <template>
   <div>
     <NuxtLogo />
-    <h1>메인 페이지</h1>
+    <p>메인페이지</p>
   </div>
 </template>
 
